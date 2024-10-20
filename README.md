@@ -83,6 +83,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Poovarasan46">
+                    <img src="https://avatars.githubusercontent.com/u/130292908?s=400&u=fff66eba17f015f1305cb5e38cecde59427ff0ca&v=4" width="100px;" alt="Preeti Raj"/>
+                    <br />
+                    <sub><b>Poovarasan</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Kandi-Venkatesh99">
                     <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
                     <br />
